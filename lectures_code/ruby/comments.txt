@@ -1,0 +1,4 @@
+Q - question; O - opinion
+1_3
+Q: do we really need class declaration to run this script? 
+O: every algorithm should contain some demo-code that allows to check it works
