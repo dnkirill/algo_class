@@ -3,11 +3,14 @@
 class QuickSort
   def initialize(array)
     @arr = array
-  end
+		p "Entry array:"
+		p array
+	end
 
   def sort
     quicksort(0, @arr.size - 1)
-    @arr
+    p "Sorted array:"
+		p @arr
   end
 
   def quicksort(start, finish)

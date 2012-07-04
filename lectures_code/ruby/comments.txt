@@ -1,4 +1,6 @@
 Q - question; O - opinion
 1_3
 Q: do we really need class declaration to run this script? 
+  - We don't, but it makes life easier. We can run it in the global namespace or create lambdas/procs for this.
 O: every algorithm should contain some demo-code that allows to check it works
+  - Indeed, I'll fix it.
